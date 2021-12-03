@@ -1,2 +1,2 @@
 Hello!
-Darth Vader speaking
+speaking
